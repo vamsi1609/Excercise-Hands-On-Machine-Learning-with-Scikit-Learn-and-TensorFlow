@@ -37,14 +37,14 @@ Important Supervised Learning algorithms:
 
 Important unsupervised learning algorithms:
 - Clustering
-— k-Means
-— Hierarchical Cluster Analysis (HCA)
-— Expectation Maximization
+  - k-Means
+  - Hierarchical Cluster Analysis (HCA)
+  - Expectation Maximization
 - Visualization and dimensionality reduction
-— Principal Component Analysis (PCA)
-— Kernel PCA
-— Locally-Linear Embedding (LLE)
-— t-distributed Stochastic Neighbor Embedding (t-SNE)
+  - Principal Component Analysis (PCA)
+  - Kernel PCA
+  - Locally-Linear Embedding (LLE)
+  - t-distributed Stochastic Neighbor Embedding (t-SNE)
 - Association rule learning
-— Apriori
-— Eclat
+  - Apriori
+  - Eclat
