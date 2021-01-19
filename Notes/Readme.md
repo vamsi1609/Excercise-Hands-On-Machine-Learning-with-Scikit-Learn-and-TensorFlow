@@ -27,7 +27,7 @@ fact that the children of tall people tend to be shorter than their parents. Sin
 this regression to the mean. This name was then applied to the methods he used to analyze correlations
 between variables.
 
-Important Supervised Learning algorithms:
+#### Important Supervised Learning algorithms:
 - k-Nearest Neighbors
 - Linear Regression
 - Logistic Regression
@@ -35,7 +35,7 @@ Important Supervised Learning algorithms:
 - Decision Trees and Random Forests
 - Neural networks
 
-Important unsupervised learning algorithms:
+#### Important  Unsupervised learning algorithms:
 - Clustering
   - k-Means
   - Hierarchical Cluster Analysis (HCA)
@@ -48,3 +48,16 @@ Important unsupervised learning algorithms:
 - Association rule learning
   - Apriori
   - Eclat
+  
+#### Semisupervised learning 
+algorithms used in scenarios like google photos where the software clusters and recogises people from the photos and then ask u to label few photos.
+  
+#### Reinforcement Learning
+Its a little different way of teaching an algorithm. It contains an aganet and an envirnment where the agent can interact and learn based on the rewards offered by the envirnment. Google's alpha zero and go are the best examples of reinforcement learning.
+
+
+#### Batch and Online learning
+Another criterion used to classify Machine Learning systems is whether or not the
+system can learn incrementally from a stream of incoming data.
+
+
