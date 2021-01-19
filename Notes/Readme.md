@@ -28,23 +28,23 @@ this regression to the mean. This name was then applied to the methods he used t
 between variables.
 
 Important Supervised Learning algorithms:
-• k-Nearest Neighbors
-• Linear Regression
-• Logistic Regression
-• Support Vector Machines (SVMs)
-• Decision Trees and Random Forests
-• Neural networks
+- k-Nearest Neighbors
+- Linear Regression
+- Logistic Regression
+- Support Vector Machines (SVMs)
+- Decision Trees and Random Forests
+- Neural networks
 
 Important unsupervised learning algorithms:
-• Clustering
+- Clustering
 — k-Means
 — Hierarchical Cluster Analysis (HCA)
 — Expectation Maximization
-• Visualization and dimensionality reduction
+- Visualization and dimensionality reduction
 — Principal Component Analysis (PCA)
 — Kernel PCA
 — Locally-Linear Embedding (LLE)
 — t-distributed Stochastic Neighbor Embedding (t-SNE)
-• Association rule learning
+- Association rule learning
 — Apriori
 — Eclat
