@@ -12,3 +12,17 @@ the ability to learn without being explicitly programmed.
 > A computer program is said to learn from experience E with respect to some task T
 and some performance measure P, if its performance on T, as measured by P, improves
 with experience E.
+
+### Types of Machine Learning Systems
+- Whether or not they are trained with human supervision (supervised, unsuper‐
+vised, semisupervised, and Reinforcement Learning)
+- Whether or not they can learn incrementally on the fly (online versus batch
+learning)
+- Whether they work by simply comparing new data points to known data points,
+or instead detect patterns in the training data and build a predictive model, much
+like scientists do (instance-based versus model-based learning)
+
+>> Fun fact: this odd-sounding name is a statistics term introduced by Francis Galton while he was studying the
+fact that the children of tall people tend to be shorter than their parents. Since children were shorter, he called
+this regression to the mean. This name was then applied to the methods he used to analyze correlations
+between variables.
