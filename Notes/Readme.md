@@ -64,6 +64,6 @@ system can learn incrementally from a stream of incoming data.
 In batch learning, the model is trained and put into production. It wont train again. So the training process is done offline, therefore the name offline learning
 
 #### Online Learning
-The training happens incrementally. The model keeps on training on the new data but it must preserve the old state also. If we train the spam detection model with only new type of data, it will miss out the old type of spams. So it is important to keep the balance. One of the other place where online learning is applied when the data is too huge that it can't fit in a computer memory such type of training of data is known as out-of-core learning.
+The training happens incrementally. The model keeps on training on the new data but it must preserve the old state also. If we train the spam detection model with only new type of data, it will miss out the old type of spams. So it is important to keep the balance. One of the other place where online learning is applied when the data is too huge that it can't fit in a computer memory such type of training of data is known as out-of-core learning. The data is divided into mini-batches and used in training the system.
 
 
