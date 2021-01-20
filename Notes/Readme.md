@@ -60,4 +60,10 @@ Its a little different way of teaching an algorithm. It contains an aganet and a
 Another criterion used to classify Machine Learning systems is whether or not the
 system can learn incrementally from a stream of incoming data.
 
+#### Batch Learning
+In batch learning, the model is trained and put into production. It wont train again. So the training process is done offline, therefore the name offline learning
+
+#### Online Learning
+The training happens incrementally. The model keeps on training on the new data but it must preserve the old state also. If we train the spam detection model with only new type of data, it will miss out the old type of spams. So it is important to keep the balance. One of the other place where online learning is applied when the data is too huge that it can't fit in a computer memory such type of training of data is known as out-of-core learning.
+
 
