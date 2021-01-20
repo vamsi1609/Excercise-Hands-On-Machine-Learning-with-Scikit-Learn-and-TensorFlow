@@ -66,4 +66,29 @@ In batch learning, the model is trained and put into production. It wont train a
 #### Online Learning
 The training happens incrementally. The model keeps on training on the new data but it must preserve the old state also. If we train the spam detection model with only new type of data, it will miss out the old type of spams. So it is important to keep the balance. One of the other place where online learning is applied when the data is too huge that it can't fit in a computer memory such type of training of data is known as out-of-core learning. The data is divided into mini-batches and used in training the system.
 
+#### Instance-Based Versus Model-Based Learning
+One more way of classifying machine learning task is using the way they generalize. 
+
+#### Instance-Based Learning
+The system is trained on a set of data. When a new instance is shown to the model, it uses the trained data and checks for similarity between the trained points and the new instance. 
+
+#### Model-based learning
+The system learns from the data and creates a model. The model can be used for making the predictions.
+
+
+
+### Main Challenges of Machine Learning
+ it takes a lot of data for most Machine Learning algorithms to work properly. Even for very simple problems you typically need
+thousands of examples, and for complex problems such as image or speech recognition you may need millions of examples.
+
+> The idea that data matters more than algorithms for complex problems was further popularized by Peter Norvig et al. in a paper titled “The Unreasonable Effectiveness
+of Data” published in 2009.
+
+If the sample is too small, you will have sampling noise (i.e., nonrepresentative data as a result of chance), but even very large samples can be nonrepresentative if the sampling method is flawed. This is called sampling bias.
+
+
+
+
+
+
 
