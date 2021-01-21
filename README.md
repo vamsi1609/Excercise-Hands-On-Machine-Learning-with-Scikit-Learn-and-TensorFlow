@@ -5,7 +5,7 @@ Scikit-Learn and TensorFlow"
 ## Chapter-1 Excercise solutions
 ---
 
-Q1 How would you define Machine Learning?(space, space)
+Q1 How would you define Machine Learning?  
 Sol- 
 Machine learning is all about making a machine learn better from the data rather than expliciting giving instruction or code rules.
 
